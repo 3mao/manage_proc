@@ -2,6 +2,7 @@
 
 >该程序为了监控进程是否存在，如果不存在则重启进程
 
+
 ## 命令格式：
 >  monitor_proces.sh  'future'  'dir'
 
