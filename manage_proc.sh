@@ -59,3 +59,6 @@ prostatus(){
 
 exec 1>&5
 exec 5>&-
+
+#version:1.0
+#time:2015年10月7日12:08:39
